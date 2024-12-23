@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou Pedro Duarte!
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=peudev10&show_icons=true&theme=blueberry)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peudev10&layout=compact&theme=blueberry)
-
-
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=peudev10&show_icons=true&theme=blueberry" alt="Pedro's GitHub Stats" style="height: 150px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peudev10&layout=compact&theme=blueberry" alt="Top Langs" style="height: 150px;" />
+</div>
 
 ## 🚀 Tecnologias e Ferramentas  
 <div>
